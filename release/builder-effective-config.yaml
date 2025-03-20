@@ -1,0 +1,26 @@
+directories:
+  output: release
+  buildResources: build
+appId: com.crackedcoder.app
+productName: CrackedCoder
+files:
+  - filter:
+      - dist/**/*
+      - package.json
+mac:
+  category: public.app-category.developer-tools
+  target:
+    - dmg
+    - zip
+  icon: build/icon.icns
+win:
+  target:
+    - nsis
+    - portable
+  icon: build/icon.ico
+linux:
+  target:
+    - AppImage
+    - deb
+  category: Development
+electronVersion: 28.3.3
