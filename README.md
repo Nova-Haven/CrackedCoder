@@ -1,4 +1,4 @@
-# CrackCode - Invisible AI-Powered Interview Assistant
+# CrackedCoder - Invisible AI-Powered Interview Assistant
 
 A powerful, completely invisible AI tool for solving Coding questions during technical interviews. The tool runs 100% undetectably in the background - no screen recording or monitoring software can identify its presence. 
 
@@ -22,8 +22,8 @@ https://github.com/user-attachments/assets/179701eb-0fcf-4e33-86f3-c92688f508a5
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crackcode.git
-   cd crackcode
+   git clone https://github.com/Nova-Haven/CrackedCoder.git
+   cd CrackedCoder
    ```
 
 2. Install dependencies:
